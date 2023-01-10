@@ -1,0 +1,7 @@
+export const SHOW_SIDEBAR = "showSidebar"
+export const TEXTAREA_TEXT = "textAreatext"
+export const ADD_PROJECT = "addProject"
+export const DELETE_PROJECT = "deleteProject"
+export const ANNOUNCEMENT_TEXT = "announcementText"
+export const ADD_ANNOUNCEMENT = "addAnnouncement"
+export const DELETE_ANNC = "deleteAnnc"
